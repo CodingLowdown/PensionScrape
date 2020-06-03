@@ -41,7 +41,7 @@ headers_Get = {
 
 
 # get the API KEY here: https://developers.google.com/custom-search/v1/overview
-API_KEY = "AIzaSyCPIAqAqCl5Soj8GCbTMmQtDXi6f3zB0FM"
+
 # get your Search Engine ID on your CSE control panel
 SEARCH_ENGINE_ID = "015311924500521629147:8od8ivsatvx"
 
